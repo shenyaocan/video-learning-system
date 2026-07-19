@@ -4,6 +4,16 @@
 
 视频学习系统是一款基于 React + Flask 的在线视频学习平台，集成 AI 费曼学习法互动功能，支持视频播放、PDF阅读、截图标注、智能复习等核心功能。
 
+播放目录
+<img width="2217" height="1137" alt="image" src="https://github.com/user-attachments/assets/ddae4411-0c56-4dea-84ca-ead7786e7c2d" />
+播放区域
+<img width="2217" height="1137" alt="image" src="https://github.com/user-attachments/assets/3385ef6e-3421-4514-a0a2-e93adcb5ae35" />
+标注区域
+<img width="2217" height="1137" alt="image" src="https://github.com/user-attachments/assets/3f37ee6b-ba88-4424-8ed1-fa7db6583633" />
+标注管理
+<img width="2217" height="1137" alt="image" src="https://github.com/user-attachments/assets/a58c3443-a3ce-41cf-bf6b-35a9a0ebb4d8" />
+
+
 ## 二、功能特性
 
 ### 2.1 视频播放功能
