@@ -1,0 +1,9 @@
+flask==3.1.0
+flask-cors==5.0.1
+PyMuPDF==1.24.10
+opencv-python==4.10.0.84
+numpy==1.26.4
+
+# System dependencies (not Python packages):
+# - ffmpeg (required for video optimization, transcoding, stabilization)
+# - ffprobe (required for video information extraction)
